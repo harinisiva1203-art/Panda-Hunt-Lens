@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/b3b68d64-2600-483c-b632-679a104dd76e>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> bff34d50-dcde-442c-abed-e1a4b98385a1
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> bff34d50-dcde-442c-abed-e1a4b98385a1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 695588e9-5a1b-4fa9-a3ed-720f200d3c05
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/695588e9-5a1b-4fa9-a3ed-720f200d3c05>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: f144f8cf-3641-4702-bf94-435260a7cb7a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    evilFall2: false
+    gameOverEffect: false
+    pandaFall1: false
+    pandaFall2: false
+    pandaFall3: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - gameOverEffect: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      pandaFall1: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      pandaFall2: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      pandaFall3: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      evilFall2: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

@@ -1,0 +1,35 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 29
+    values:
+      - Bamboo1.jpg
+      - EvilPanda1.png
+      - EvilPanda2.png
+      - EvilPandaTap.js
+      - GameIntro.js
+      - GameManager.js
+      - Image 10.mat
+      - Image 11.mat
+      - Image 4.mat
+      - Image 5.mat
+      - Image 6.mat
+      - Image 7.mat
+      - Image 8.mat
+      - Image 9.mat
+      - Image.mat
+      - Image.png
+      - ImageMaterial 2.mat
+      - ImageMaterial 3.mat
+      - ImageMaterial.mat
+      - PandaFall.js
+      - PandaManager.js
+      - PandaTap.js
+      - ScoreManager.js
+      - flat.ss_graph
+      - gameout.png
+      - image_unlit.ss_graph
+      - panda2-removebg-preview.png
+      - panda3-removebg-preview.png
+      - star2-removebg-preview.png
+  options: 4
