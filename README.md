@@ -18,6 +18,8 @@ The view count will be updated as the Lens continues to gain views.
 
 Scan the Snapcode below using Snapchat to try the Lens.
 
+![Panda Hunt Snapcode](snapcode.png)
+
 
 ## 🎮 Gameplay
 
